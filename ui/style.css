@@ -20,9 +20,9 @@ body {
     height: 200px;
 }
 
-.img-center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
     
